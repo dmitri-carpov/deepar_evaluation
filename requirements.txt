@@ -1,0 +1,6 @@
+gluonts==0.5.0
+fire
+mxnet-cu102==1.6
+# mxnet==1.6
+patool
+xlrd
